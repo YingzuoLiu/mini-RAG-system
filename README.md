@@ -1,2 +1,2 @@
-# mini-RAG-exercises
-LoRA RAG
+# mini-RAG-System
+
