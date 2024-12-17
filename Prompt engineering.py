@@ -1,4 +1,4 @@
-# 构建 Prompt：包含上下文、问题、以及逐步推理的示例
+
 def build_prompt(query, context, cot=False):
     """
     构建 Prompt 的函数，支持 CoT 模式
